@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/3d-garage/static/css/main.a617e044.chunk.css",
+    "main.js": "/3d-garage/static/js/main.adcb4d2a.chunk.js",
+    "main.js.map": "/3d-garage/static/js/main.adcb4d2a.chunk.js.map",
+    "runtime-main.js": "/3d-garage/static/js/runtime-main.c593f895.js",
+    "runtime-main.js.map": "/3d-garage/static/js/runtime-main.c593f895.js.map",
+    "static/js/2.d3425e3f.chunk.js": "/3d-garage/static/js/2.d3425e3f.chunk.js",
+    "static/js/2.d3425e3f.chunk.js.map": "/3d-garage/static/js/2.d3425e3f.chunk.js.map",
+    "static/js/3.a041a710.chunk.js": "/3d-garage/static/js/3.a041a710.chunk.js",
+    "static/js/3.a041a710.chunk.js.map": "/3d-garage/static/js/3.a041a710.chunk.js.map",
+    "index.html": "/3d-garage/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/3d-garage/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d3425e3f.chunk.js.LICENSE.txt": "/3d-garage/static/js/2.d3425e3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c593f895.js",
+    "static/js/2.d3425e3f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.adcb4d2a.chunk.js"
+  ]
+}
